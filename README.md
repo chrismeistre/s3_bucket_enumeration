@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/eth0izzle/bucket-stream/master/permutations/extended.txt
